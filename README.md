@@ -1,6 +1,6 @@
 # Apollo Electronics Trend Analysis
 <div align="center">
-  <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Apollo%20Logo.png?raw=true" alt="Apollo Logo" width="700">
+  <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Apollo%20Logo.png?raw=true" alt="Apollo Logo" width="500">
 </div>
 
 ![Apolo Logo](https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Apollo%20Logo.png?raw=true)
