@@ -17,7 +17,7 @@ Apollo Electronics is an e-commerce company started in 2018 that sells consumer 
 ## Sales Trends
 
 <div align="center">
-  <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Overall%20Yearly%20Sales.jpg?raw=true" alt="Apollo Logo" width="400">
+  <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Overall%20Yearly%20Sales.jpg?raw=true" alt="Apollo Logo" width="600">
 </div>
 
 * visual of overall sales trend
