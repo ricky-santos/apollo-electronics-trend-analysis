@@ -7,10 +7,11 @@ Apollo Electronics is an e-commerce company started in 2018 that sells consumer 
 
 **Stakeholder Ask**
 "Hi data team - the leadership team is preparing for the company-wide town hall next month and would like to present a walkthrough of our order trends from 2019-2022. Can you help us answer the following:
-• What were the overall trends in sales during this time?
-• What were our monthly and yearly growth rates?
-• How is the new loyalty program performing? Should we keep using it?
-• What were our refund rates and average order value?
+* What were the overall trends in sales during this time?
+* What were our monthly and yearly growth rates?
+* How is the new loyalty program performing? Should we keep using it?
+* What were our refund rates and average order value?
+
 I'll set a meeting next week to review your findings - looking forward to discussing.
 Thank you,
 Angie"
