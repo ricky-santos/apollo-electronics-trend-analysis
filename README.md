@@ -5,7 +5,16 @@
 
 Apollo Electronics is an e-commerce company started in 2018 that sells consumer tech products online. They have gathered a wealth of data over the past few years and want to run an analysis of how their business has performed over that time. Apollo are interested in learning what trends have impacted their sales across different products, regions, and marketing channels.
 
-**INSERT Stakeholder Ask; Follow ups**
+**Stakeholder Ask**
+<div align="center">
+  <img src="link" alt="Apollo Logo" width="500">
+</div>
+
+After some claryfing questions the stakeholder responded with more detail.
+**Stakeholder Follow-up**
+<div align="center">
+  <img src="link" alt="Apollo Logo" width="500">
+</div>
 
 ## High-Level Insights
 
@@ -43,8 +52,6 @@ Apollo Electronics is an e-commerce company started in 2018 that sells consumer 
   - US dominated sales
 
 ## Loyalty Program
-
-## Marketing Analysis
 
 ## Refund Analysis
 * Refund window was too long
