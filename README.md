@@ -16,11 +16,12 @@ I'll set a meeting next week to review your findings - looking forward to discus
 Thank you,
 Angie"
 
-After some claryfing questions the stakeholder responded with more detail.
+After some claryfing questions the stakeholder responded with more detail:
 **Stakeholder Follow-up**
-<div align="center">
-  <img src="link" alt="Apollo Logo" width="500">
-</div>
+
+* Focus on sales, average order value (AOV), and order count for growth rates
+* For loyalty program performance, also look at average order value
+* For refunds and average order value, would like to focus on how these metrics compare across Apple products. Also include number of refunds as a metric.
 
 ## High-Level Insights
 
