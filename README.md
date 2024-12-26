@@ -2,10 +2,10 @@
 <div align="center">
   <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Sales%20Overview.png?raw=true" alt="Overall Sales" width="500">
 </div>
-<div align="center">
+<div align="left">
   <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/AOV%20per%20year%20per%20month.png?raw=true" alt="another chart" width="250">
 </div>
-<div align="center">
+<div align="right">
   <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/March%20Growth%20Rates.png?raw=true" alt="Mmmmmmarch" width="250">
 </div>
 
