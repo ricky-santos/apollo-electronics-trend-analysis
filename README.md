@@ -50,7 +50,6 @@ Angie"
 <div align="center">
   <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Average%20Sales%20Growth%20Rates%202019-2022.png?raw=true" alt="Overall Sales" width="600">
 </div>
-- visual excel chart
 
 * Sales have consistently increased during the holiday months of November and December, but this has been followed by declines in January and February as a result. Notably, October also experiences a drop in sales each year, which warrants further analysis to understand the cause.
 
@@ -60,10 +59,6 @@ Angie"
     - Which products were involved the most in the highest order values with 2 or more products
     - Apple Products Analysis
         - iPhones not selling enough
-
-## Region Analysis
-* Region did not divert from the general trend
-  - US dominated sales
 
 ## Loyalty Program
 
