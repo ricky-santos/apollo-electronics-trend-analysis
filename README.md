@@ -3,7 +3,7 @@
   <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Apollo%20Logo.png?raw=true" alt="Apollo Logo" width="500">
 </div>
 
-Apollo Electronics is an e-commerce company started in 2018 that sells consumer tech products online. They have gathered a wealth of data over the past few years and want to run an analysis of how their business has performed over that time. Apollo are interested in learning what trends have impacted their sales across different products, regions, and marketing channels.
+Apollo Electronics is an e-commerce company started in 2018 that sells consumer tech products online. They have gathered a wealth of data over the past few years and want to run an analysis of how their business has performed over that time. Apollo are interested in learning what trends have impacted their sales across refunds, loyalty programs and apple products.
 
 ## Stakeholder Ask
 "Hi data team - the leadership team is preparing for the company-wide town hall next month and would like to present a walkthrough of our order trends from 2019-2022. Can you help us answer the following:
@@ -18,9 +18,7 @@ Thank you,
 
 Angie"
 
-After some claryfing questions the stakeholder responded with more detail:
-
-**Stakeholder Follow-up**
+**Stakeholder Follow-up*\* (After some claryfing questions)
 
 * Focus on sales, average order value (AOV), and order count for growth rates
 * For loyalty program performance, also look at average order value
@@ -28,8 +26,7 @@ After some claryfing questions the stakeholder responded with more detail:
 
 ## High-Level Insights
 
-* After the startup period in 2019 sales began to steadily increase. However, 2020 saw a major boost in sales that March coinciding with the beginnig of the Covid-19 pandemic lockdowns. Sales peaked in Q4 2020 at $3 million and have seen overall declines in 2021 and 2022.
-* While Apollo has not been able to maintain sales as we returned to normalcy, other factors might explain the company's inability to maintatin growth.
+* After the startup period in 2019 sales began to steadily increase. However, 2020 saw a major boost in sales in March coinciding with the beginnig of the Covid-19 pandemic lockdowns. Sales peaked in Q4 2020 at $3 million and have seen overall declines in 2021 and 2022.
 * add 1 more (products)
 * add 1 more (seasonality)
 * add 1 more (loyalty or refunds)
