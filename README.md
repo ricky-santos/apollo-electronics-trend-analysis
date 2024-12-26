@@ -47,8 +47,9 @@ Angie"
 * The average order value (AOV) rose by 31% in 2020 but has since receded to pre-pandemic levels.
 
 ## Seasonal Trends
-
-- visual (four line graph)
+<div align="center">
+  <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Average%20Sales%20Growth%20Rates%202019-2022.png?raw=true" alt="Overall Sales" width="600">
+</div>
 - visual excel chart
 
 * Sales have consistently increased during the holiday months of November and December, but this has been followed by declines in January and February as a result. Notably, October also experiences a drop in sales each year, which warrants further analysis to understand the cause.
