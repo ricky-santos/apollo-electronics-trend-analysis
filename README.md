@@ -17,7 +17,7 @@ Thank you,
 
 Angie"
 
-**Stakeholder Follow-up*\* (After some claryfing questions)
+**Stakeholder Follow-up** (After some claryfing questions)
 
 * Focus on sales, average order value (AOV), and order count for growth rates
 * For loyalty program performance, also look at average order value
