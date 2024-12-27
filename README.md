@@ -1,8 +1,7 @@
 # Apollo Electronics Trend Analysis
- <div align="center">
+<div align="center">
   <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Apollo%20Logo.png?raw=true" alt="Apollo Logo" width="500">
-  <div>
-
+</div>
 Apollo Electronics is an e-commerce company started in 2018 that sells consumer tech products online. They have gathered a wealth of data over the past few years and want to run an analysis of how their business has performed over that time. Apollo are interested in learning what trends have impacted their sales across refunds, loyalty programs and apple products.
 
 ## Stakeholder Ask
