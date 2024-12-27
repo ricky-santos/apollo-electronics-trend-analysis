@@ -77,9 +77,10 @@ Guest Checkout's seem largely responsible for the boom in AOV in 2020 spending m
 The loyalty program has improved over time, climbing in AOV through the years and accounting for roughly half of sales in 2021 and 2022. Ultimately, there is no reason to remove the loyalty program at this point. 
 
 ## Refund Analysis
-* Refund window was too long
-    - People taking advantage of window
-    - Outline amount of $$ lost in refunds longer than 1 month
+- **Refund window was exeedingly long.** The average refund occured **738 days** after shipping. 
+- **Apollo lost $3 Million in refunds** which accounts for 8% of total sales revenue.^*^
+
+^*^ We only have refunds for purchases occuring up until July 2021 as no purchases made after that have refunds time-stamped befor the end of 2022. Refund losses account for 12% of sales up to July 2021.
 
  ## Recommendations:
 - Focusing on efficiency and prioritizing markeion
