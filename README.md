@@ -50,7 +50,8 @@ Angie"
   <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Average%20Sales%20Growth%20Rates%202019-2022.png?raw=true" alt="Overall Sales" width="600">
 </div>
 
-* Sales have consistently increased during the holiday months of November and December, but this has been followed by declines in January and February as a result. Notably, October also experiences a drop in sales each year, which warrants further analysis to understand the cause.
+* Sales have consistently increased during the holiday months of November and December, but this has been followed by declines in January and February as a result.
+* Notably, October also experiences a drop in sales each year, which warrants further analysis to understand the cause.
 
 ## Product Analysis
 * Which products have been ordered the most
@@ -60,6 +61,18 @@ Angie"
         - iPhones not selling enough
 
 ## Loyalty Program
+<div align="center">
+  <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Loyalty%20Program%20Share%20of%20Sales.png?raw=true" alt="Loyalty Program" width="500">
+</div>
+Loyalty Program grew significantly with the covid bump. It accounted for more than half of orders by 2021, but stagnated ever since.
+
+<div align="center">
+  <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Loyalty%20Program%20AOV.png?raw=true" alt="Loyalty Program AOV" width="400">
+</div>
+Guest Checkout's seem largely responsible for the boom in AOV in 2020 spending more per sale than loyalty members. After the boom, however, loyalty program members spend more on average than guest checkout. 
+
+**Should Apollo continue the loyalty program?**
+The loyalty program has improved over time, climbing in AOV through the years and accounting for roughly half of sales in 2021 and 2022. Ultimately, there is no reason to remove the loyalty program at this point. 
 
 ## Refund Analysis
 * Refund window was too long
