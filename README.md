@@ -1,13 +1,6 @@
 # Apollo Electronics Trend Analysis
 <div align="center">
-  <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Sales%20Overview.png?raw=true" alt="Overall Sales" width="500">
-</div>
-<div align="left">
-  <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/AOV%20per%20year%20per%20month.png?raw=true" alt="another chart" width="400">
-<div align="right">
-  <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/March%20Growth%20Rates.png?raw=true" alt="Mmmmmmarch" width="400">
-</div>
-
+  <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Apollo%20Logo.png?raw=true" alt="Apollo Logo" width="500">
 
 Apollo Electronics is an e-commerce company started in 2018 that sells consumer tech products online. They have gathered a wealth of data over the past few years and want to run an analysis of how their business has performed over that time. Apollo are interested in learning what trends have impacted their sales across refunds, loyalty programs and apple products.
 
@@ -40,7 +33,13 @@ Angie"
 ## Sales Trends
 
 <div align="center">
-  <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Overall%20Yearly%20Sales.jpg?raw=true" alt="Apollo Logo" width="600">
+  <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Sales%20Overview.png?raw=true" alt="Apollo Logo" width="600">
+</div>
+</div>
+<div align="left">
+  <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/AOV%20per%20year%20per%20month.png?raw=true" alt="another chart" width="400">
+<div align="right">
+  <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/March%20Growth%20Rates.png?raw=true" alt="Mmmmmmarch" width="400">
 </div>
 
 * 2020 saw the highest growth, with a 163% increase in sales, but sales have declined since with the largest drop of 46% in 2022.
