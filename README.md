@@ -68,9 +68,9 @@ Angie"
   <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Loyalty%20Program%20AOV.png?raw=true" alt="Loyalty Program AOV" width="600">
 </div>
 
-* Loyalty Program grew significantly with the covid bump. It accounted for more than half of orders by 2021, but stagnated ever since.
+Loyalty Program grew significantly with the covid bump. It accounted for more than half of orders by 2021, but stagnated ever since.
 
-* Guest Checkout's seem largely responsible for the boom in AOV in 2020 spending more per sale than loyalty members. After the boom, however, loyalty program members spend more on average than guest checkout. 
+Guest Checkout's seem largely responsible for the boom in AOV in 2020 spending more per sale than loyalty members. After the boom, however, loyalty program members spend more on average than guest checkout. 
 
 **Should Apollo continue the loyalty program?**
 
