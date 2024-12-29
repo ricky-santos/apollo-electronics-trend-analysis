@@ -55,7 +55,6 @@ Angie"
 
 ## Product Analysis
 <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Product%20Sales.png?raw=true" alt="Product Sales" width="200"> <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Product%20Orders.png?raw=true" alt="Product Orders" width="200">
-![Product Sales](https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Product%20Sales.png?raw=true)![Product Orders](https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Product%20Orders.png?raw=true)
 - The **Gaming Monitor, Apple Airpods, Macbook Air and Thinkpad Laptop** were the highest selling products earning **more than 95% of sales**.
 - Comapred to the other Apple products, the iPhones lacked substantionally accounting for less than 1% of overall sales and orders.
 - Purchases across most products occred on the **website earning $27 Million** over the four years compared to just **$800,000 on mobile**.
