@@ -55,7 +55,7 @@ Angie"
 
 ## Product Analysis
 <div align="center">
-  <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Product%20Sales.png?raw=true" alt="Product Sales" width="200"> <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Product%20Orders.png?raw=true" alt="Product Orders" width="200">
+  <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Product%20Sales.png?raw=true" alt="Product Sales" width="400"> <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Product%20Orders.png?raw=true" alt="Product Orders" width="400">
 </div>
 - The **Gaming Monitor, Apple Airpods, Macbook Air and Thinkpad Laptop** were the highest selling products earning **more than 95% of sales**.
 - Comapred to the other Apple products, the iPhones lacked substantionally accounting for less than 1% of overall sales and orders.
@@ -65,10 +65,7 @@ Angie"
 
 ## Loyalty Program
 <div align="center">
-  <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Loyalty%20Program%20Share%20of%20Sales.png?raw=true" alt="Loyalty Program Share of Sales" width="600">
-</div>
-<div align="center">
-  <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Loyalty%20Program%20AOV.png?raw=true" alt="Loyalty Program AOV" width="600">
+  <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Loyalty%20Program%20Share%20of%20Sales.png?raw=true" alt="Loyalty Program Share of Sales" width="600"><img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Loyalty%20Program%20AOV.png?raw=true" alt="Loyalty Program AOV" width="600">
 </div>
 
 Loyalty Program grew significantly with the covid bump. It accounted for more than half of orders by 2021, but stagnated ever since.
