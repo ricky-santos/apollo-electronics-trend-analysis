@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Apollo%20Logo.png?raw=true" alt="Apollo Logo" width="500">
 </div>
-Apollo Electronics is an e-commerce company started in 2018 that sells consumer tech products online. They have gathered a wealth of data over the past few years and want to run an analysis of how their business has performed over that time. Apollo are interested in learning what trends have impacted their sales across refunds, loyalty programs and apple products.
+Apollo Electronics is an e-commerce company that sells consumer tech products online. They have gathered a wealth of data over the past few years and want to run an analysis of how their business has performed between 2019 and 2022. Apollo are interested in learning about general trends as well as what has impacted their sales across refunds, loyalty programs and apple products.
 
 ## Stakeholder Ask
 "Hi data team - the leadership team is preparing for the company-wide town hall next month and would like to present a walkthrough of our order trends from 2019-2022. Can you help us answer the following:
@@ -24,10 +24,11 @@ Angie"
 * For refunds and average order value, would like to focus on how these metrics compare across Apple products. Also include number of refunds as a metric.
 
 ## High-Level Insights
-* After the startup period in 2019 sales began to steadily increase. However, 2020 saw a major boost in sales in March coinciding with the beginnig of the Covid-19 pandemic lockdowns. Sales peaked in Q4 2020 at $3 million and have seen overall declines in 2021 and 2022.
-* add 1 more (products)
-* add 1 more (seasonality)
-* add 1 more (loyalty or refunds)
+* After the startup period in 2019 sales began to steadily increase. However, 2020 saw a major boost in sales in March coinciding with the beginnig of the Covid-19 pandemic lockdowns.** Sales peaked in Q4 2020** at $3 million and have seen **overall declines in 2021 and 2022**.
+* Thinkpad & Macbook Air Laptops as well as the Apple Airpods Heaphones contributed the most to sales accounting for **95% of revenue**.
+* The refund window is exeedingly larger than normal with a refund window of **an average 738 days from shipping to refund** dates **subtracting 8% of sales revenue** over the 4 years so far.
+* The loyalty program has grown over the years to account for around 50% of all orders. **Loyalty Members also have higher AOVs** than Guest Checkout.
+* 
 
 ## Sales Trends
 
@@ -98,4 +99,5 @@ The loyalty program has improved over time, climbing in AOV through the years an
 - Product Prioritization
 
 ### Notes on the Data
-
+- A marginal amount of orders had null purchase dates
+- refund dates only account for products purchsaed between 2019-2022.
