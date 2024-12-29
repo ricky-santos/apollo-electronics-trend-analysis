@@ -19,7 +19,7 @@ Left Join refund_column
 Where DATE_DIFF(refund_ts, ship_ts, day) > 30
   AND refund_column.refunded = 1
 
--- What products have the top return rates?
+-- What products have the heighest return rates?
 
 # products (distinct)
 # avg of return rate (case when)
