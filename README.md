@@ -57,7 +57,7 @@ Angie"
 https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Product%20Sales.png?raw=true
 https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Product%20Orders.png?raw=true
 - The **Gaming Monitor, Apple Airpods, Macbook Air and Thinkpad Laptop** were the highest selling products earning **more than 95% of sales**.
-- Comapred to the other Apple products, the iPhones lacked substantionally in product sales and orders accounting for less than 1% of overall sales.
+- Comapred to the other Apple products, the iPhones lacked substantionally accounting for less than 1% of overall sales and orders.
 - Purchases across most products occred on the **website earning $27 Million** over the four years compared to just **$800,000 on mobile**.
 - The majority of orders attribute "direct" marketing as the main contributor to the sale accountign for **$23 million**. "Email" was the second with over $3 million.
 - The Bose Soundsport Heaphones has contradicting performance to the above with all orders occuring on mobile and attributed to email marketing.
@@ -81,7 +81,7 @@ The loyalty program has improved over time, climbing in AOV through the years an
 ## Refund Analysis
 - **Refund window was exeedingly long.** The average refund occured **738 days** after shipping. 
 - **Apollo lost $3 Million in refunds** which accounts for **8%** of total sales revenue.*
-- The Thinkpad (12%) and Macbook Air Laptops (11%) had the highest rates of return marking the laptops as the most common refunded items. Perhaps not so coincidentally, they were also responsible for the highest AOV for refunded orders ($1,099 and $1,588 respectively).
+- The Thinkpad (12%) and Macbook Air Laptops (11%) had the highest rates of return marking the laptops as the most commonly refunded items. Perhaps not suprisingly, they were also responsible for the highest AOV for refunded orders ($1,099 and $1,588 respectively).
 
 <div align="center">
   <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Refunds%20Share%20of%20$%20by%20Product.png?raw=true" alt="Refund Product Share" width="600">
@@ -93,11 +93,13 @@ The loyalty program has improved over time, climbing in AOV through the years an
 *Available data only has refunds for purchases occuring up until July 2021 as no purchases made after that have refunds time-stamped befor the end of 2022. Refund losses account for 12% of sales up to July 2021.
 
  ## Recommendations:
-- Focusing on efficiency and prioritizing markeion
-- Loyalty Program
-- Refund Policy
-- Product Prioritization
+ The pandemic bump was drastic and Apollo was not able to sustain its growth, but a few opportuninties could help the company push for the future.
+ 
+- There have been no new product offering introduced into the lineup since the Beats Soundsport Headphones and the Samsung Webcam in 2020. Laptops contribute to high sales dollars but highly priced items also have the highest return rates. The Apple Airpods were excellent performers given their relatively low return rates and high sales contributions.
+- The Loyalty Program has been showing signs of improvement in 2022. Continuing the program would allow us to collect more data.
+- The refund window is unusually long and customers are taking advatage of it. If this policy is a marketing measure, perhaps consider reducinng the window significantly while still being generous to see how it impacts return rates and AOV.
+
 
 ### Notes on the Data
-- A marginal amount of orders had null purchase dates
-- refund dates only account for products purchsaed between 2019-2022.
+- A marginal amount of orders had null purchase dates.
+- Refund dates only account for products purchsaed between 2019-2022.
