@@ -1,6 +1,6 @@
 -- How much money has been refunded for orders longer than a month?
 
-# Sales
+# Sales(SUM usd_price)
 # orders / orser_status ON orders.order_id = order_status.id
 # when refund_ts - ship_ts is > 30 days (1 month?)
 # when refunded (create helper column)
