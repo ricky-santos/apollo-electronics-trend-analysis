@@ -28,18 +28,14 @@ Angie"
 * Thinkpad & Macbook Air Laptops as well as the Apple Airpods Heaphones contributed the most to sales accounting for **95% of revenue**.
 * The refund window is exeedingly larger than normal with a refund window of **an average 738 days from shipping to refund** dates **subtracting 8% of sales revenue** over the 4 years so far.
 * The loyalty program has grown over the years to account for around 50% of all orders. **Loyalty Members also have higher AOVs** than Guest Checkout.
-* 
 
 ## Sales Trends
 
 <div align="center">
   <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Sales%20Overview.png?raw=true" alt="The overarcher" width="600">
 </div>
-</div>
-<div align="left">
-  <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/AOV%20per%20year%20per%20month.png?raw=true" alt="another chart" width="400">
-<div align="right">
-  <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/March%20Growth%20Rates.png?raw=true" alt="Mmmmmmarch" width="400">
+<div align="center">
+  <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/AOV%20per%20year%20per%20month.png?raw=true" alt="another chart" width="50%"><img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/March%20Growth%20Rates.png?raw=true" alt="Mmmmmmarch" width="50%">
 </div>
 
 * 2020 saw the highest growth, with a 163% increase in sales, but sales have declined since with the largest drop of 46% in 2022.
