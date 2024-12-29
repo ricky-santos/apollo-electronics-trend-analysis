@@ -33,7 +33,7 @@ Angie"
 ## Sales Trends
 
 <div align="center">
-  <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Sales%20Overview.png?raw=true" alt="Apollo Logo" width="600">
+  <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Sales%20Overview.png?raw=true" alt="The overarcher" width="600">
 </div>
 </div>
 <div align="left">
@@ -47,7 +47,7 @@ Angie"
 
 ## Seasonal Trends
 <div align="center">
-  <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Average%20Sales%20Growth%20Rates%202019-2022.png?raw=true" alt="Overall Sales" width="600">
+  <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Average%20Sales%20Growth%20Rates%202019-2022.png?raw=true" alt="Growth Rates" width="600">
 </div>
 
 * Sales have consistently increased during the holiday months of November and December, but this has been followed by declines in January and February as a result.
@@ -62,7 +62,7 @@ Angie"
 
 ## Loyalty Program
 <div align="center">
-  <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Loyalty%20Program%20Share%20of%20Sales.png?raw=true" alt="Loyalty Program" width="600">
+  <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Loyalty%20Program%20Share%20of%20Sales.png?raw=true" alt="Loyalty Program Share of Sales" width="600">
 </div>
 <div align="center">
   <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Loyalty%20Program%20AOV.png?raw=true" alt="Loyalty Program AOV" width="600">
@@ -79,6 +79,14 @@ The loyalty program has improved over time, climbing in AOV through the years an
 ## Refund Analysis
 - **Refund window was exeedingly long.** The average refund occured **738 days** after shipping. 
 - **Apollo lost $3 Million in refunds** which accounts for **8%** of total sales revenue.*
+- The Thinkpad (12%) and Macbook Air Laptops (11%) had the highest rates of return marking the laptops as the most common refunded items. Perhaps not so coincidentally, they were also responsible for the highest AOV for refunded orders ($1,099 and $1,588 respectively).
+
+<div align="center">
+  <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Refunds%20Share%20of%20$%20by%20Product.png?raw=true" alt="Refund Product Share" width="600">
+</div>
+
+- Apple Products accounted for half of dollars refunded with the Macbook Air and Apple Airpods accounting for the majority of the refunds.
+- The Macbook Air Laptop and the Apple iPhone had the second and third highest refund rates respectively.
 
 *Available data only has refunds for purchases occuring up until July 2021 as no purchases made after that have refunds time-stamped befor the end of 2022. Refund losses account for 12% of sales up to July 2021.
 
