@@ -54,7 +54,7 @@ Angie"
 * Notably, October also experiences a drop in sales each year, which warrants further analysis to understand the cause.
 
 ## Product Analysis
-<div center>
+<div align="center">
   <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Product%20Sales.png?raw=true" alt="Product Sales" width="200"> <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Product%20Orders.png?raw=true" alt="Product Orders" width="200">
 </div>
 - The **Gaming Monitor, Apple Airpods, Macbook Air and Thinkpad Laptop** were the highest selling products earning **more than 95% of sales**.
