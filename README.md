@@ -65,7 +65,7 @@ Angie"
 
 ## Loyalty Program
 <div align="center">
-  <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Loyalty%20Program%20Share%20of%20Sales.png?raw=true" alt="Loyalty Program Share of Sales" width="600"><img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Loyalty%20Program%20AOV.png?raw=true" alt="Loyalty Program AOV" width="600">
+  <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Loyalty%20Program%20Share%20of%20Sales.png?raw=true" alt="Loyalty Program Share of Sales" width="50%"><img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Loyalty%20Program%20AOV.png?raw=true" alt="Loyalty Program AOV" width="50%">
 </div>
 
 Loyalty Program grew significantly with the covid bump. It accounted for more than half of orders by 2021, but stagnated ever since.
