@@ -54,3 +54,24 @@ order by 1 asc
 
 Select AVG(DATE_DIFF(refund_ts, ship_ts, day)) as avg_refund_time
 from core.order_status
+
+-- What were the order counts, sales, and AOV for Macbooks sold in North America for each quarter across all years? 
+
+# Select quarters and years, order (count)  USD price (Sum), USD price avg (AOV), 
+# from orders table
+# filter for NA and Macbooks
+# join costumers and geo_lookup tables
+# sort by asc
+
+SELECT DATE_TRUNC(purchase_ts, quarter) as Purchase_Quarter,
+  COUNT(Distinct(orders.id)) as Order_Count,
+  ROUND(SUM(usd_price), 2) as Sales,
+  ROUND(AVG(usd_price), 2) as AOV,
+FROM core.orders
+LEFT JOIN core.customers 
+  on customer_id = customers.id
+LEFT JOIN core.geo_lookup
+  on country_code = country
+WHERE geo_lookup.region = 'NA'and lower(product_name) = 'macbook air laptop'
+GROUP BY 1
+ORDER BY 1 asc;
