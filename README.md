@@ -24,7 +24,6 @@ Angie"
 * For refunds and average order value, would like to focus on how these metrics compare across Apple products. Also include number of refunds as a metric.
 
 ## High-Level Insights
-
 * After the startup period in 2019 sales began to steadily increase. However, 2020 saw a major boost in sales in March coinciding with the beginnig of the Covid-19 pandemic lockdowns. Sales peaked in Q4 2020 at $3 million and have seen overall declines in 2021 and 2022.
 * add 1 more (products)
 * add 1 more (seasonality)
@@ -54,11 +53,12 @@ Angie"
 * Notably, October also experiences a drop in sales each year, which warrants further analysis to understand the cause.
 
 ## Product Analysis
-* Which products have been ordered the most
-    - Which products have the highest AOV
-    - Which products were involved the most in the highest order values with 2 or more products
-    - Apple Products Analysis
-        - iPhones not selling enough
+**insert sales and orders charts**
+- The **Gaming Monitor, Apple Airpods, Macbook Air and Thinkpad Laptop** were the highest selling products earning **more than 95% of sales**.
+- Comapred to the other Apple products, the iPhones lacked substantionally in product sales and orders accounting for less than 1% of overall sales.
+- Purchases across most products occred on the **website earning $27 Million** over the four years compared to just **$800,000 on mobile**.
+- The majority of orders attribute "direct" marketing as the main contributor to the sale accountign for **$23 million**. "Email" was the second with over $3 million.
+- The Bose Soundsport Heaphones has contradicting performance to the above with all orders occuring on mobile and attributed to email marketing.
 
 ## Loyalty Program
 <div align="center">
