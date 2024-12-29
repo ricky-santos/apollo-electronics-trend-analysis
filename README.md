@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Apollo%20Logo.png?raw=true" alt="Apollo Logo" width="500">
 </div>
-Apollo Electronics is an e-commerce company that sells consumer tech products online. They have gathered a wealth of data over the past few years and want to run an analysis of how their business has performed between 2019 and 2022. Apollo are interested in learning about general trends as well as what has impacted their sales across refunds, loyalty programs and apple products.
+Apollo Electronics is an e-commerce company founded in 2018 that sells consumer tech products online. They have gathered a wealth of data over the past few years and want to run an analysis of how their business has performed between 2019 and 2022. Apollo are interested in learning about general trends as well as what has impacted their sales across refunds, loyalty programs and apple products.
 
 ## Stakeholder Ask
 "Hi data team - the leadership team is preparing for the company-wide town hall next month and would like to present a walkthrough of our order trends from 2019-2022. Can you help us answer the following:
