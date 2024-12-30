@@ -57,7 +57,7 @@ Angie"
 - The **Gaming Monitor, Apple Airpods, Macbook Air and Thinkpad Laptop** were the highest selling products earning **more than 95% of sales**.
 - Comapred to the other Apple products, the iPhones lacked substantionally accounting for less than 1% of overall sales and orders.
 - Purchases across most products occred on the **website earning $27 Million** over the four years compared to just **$800,000 on mobile**.
-- The majority of orders attribute "direct" marketing as the main contributor to the sale accountign for **$23 million**. "Email" was the second with over $3 million.
+- The majority of orders attribute "direct" marketing as the main contributor to the sale which accounted for **$23 million**. "Email" was the second with over $3 million.
 - The Bose Soundsport Heaphones has contradicting performance to the above with all orders occuring on mobile and attributed to email marketing.
 
 ## Loyalty Program
