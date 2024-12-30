@@ -3,21 +3,14 @@
 # Sales(SUM usd_price)
 # orders / orser_status ON orders.order_id = order_status.id
 # when refund_ts - ship_ts is > 30 days (1 month?)
-# when refunded (create helper column)
+# when refunded
 
-With refund_column AS (
-  Select order_id,
-  CASE WHEN refund_ts IS not null then 1 else 0 end as refunded
-  FROM core.order_status
-)
 Select Round(Sum(usd_price),2)
-From core.order_status
-Left Join core.orders
+From core.orders
+Left Join core.order_status
   on orders.id = order_status.order_id
-Left Join refund_column
-  on refund_column.order_id = order_status.order_id
 Where DATE_DIFF(refund_ts, ship_ts, day) > 30
-  AND refund_column.refunded = 1
+  AND refund_ts IS NOT NULL
 
 -- What products have the heighest return rates?
 
