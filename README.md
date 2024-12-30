@@ -79,7 +79,7 @@ The loyalty program has improved over time, climbing in AOV through the years an
 - The Thinkpad (12%) and Macbook Air Laptops (11%) had the highest rates of return marking the laptops as the most commonly refunded items. Perhaps not suprisingly, they were also responsible for the highest AOV for refunded orders ($1,099 and $1,588 respectively).
 
 <div align="center">
-  <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Refunds%20Share%20of%20$%20by%20Product.png?raw=true" alt="Refund Product Share" width="600">
+  <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Refunds%20Share%20of%20$%20by%20Product.png?raw=true" alt="Refund Product Share" width="800">
 </div>
 
 - Apple Products accounted for half of dollars refunded with the Macbook Air and Apple Airpods accounting for the majority of the refunds.
