@@ -15,7 +15,7 @@ Where DATE_DIFF(refund_ts, ship_ts, day) > 30
 -- What products have the heighest return rates?
 
 # products (distinct)
-# avg of return rate (case when)
+# avg of refunded_ts (case when)
 # join orders to oder_status
 
 Select DISTINCT(product_name),
