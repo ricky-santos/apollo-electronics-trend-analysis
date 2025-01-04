@@ -14,13 +14,12 @@ Where DATE_DIFF(refund_ts, ship_ts, day) > 30
 
 -- What products have the heighest return rates?
 
-# products (distinct)
+# products, clean products (game monitor, case when)
 # avg of refunded_ts (case when)
 # join orders to oder_status
 
-Select DISTINCT(product_name),
+Select case when product_name = '27in"" 4k gaming monitor' then '27in 4K gaming monitor' else product_name end as product_clean,
   ROUND(AVG(CASE WHEN refund_ts IS NOT NULL THEN 1 ELSE 0 END), 2) as refund_rate,
-  Round(Avg(USD_Price),2) as AOV
 FROM core.orders
 Join core.order_status
   ON orders.id = order_status.order_id
