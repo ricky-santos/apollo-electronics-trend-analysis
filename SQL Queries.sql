@@ -31,7 +31,7 @@ order by 2 desc
 
 # years colums (extract), group by 1
 # avg (datediff) dilevery_ts, ship_ts
-#left join order_status, orders.id = order_status.order_id
+# left join order_status, orders.id = order_status.order_id
 
 Select extract(Year FROM orders.purchase_ts) as purchase_year,
   avg(date_diff(delivery_ts, orders.purchase_ts, day)) as avg_delivery_time_days
