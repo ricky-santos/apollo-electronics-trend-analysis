@@ -66,7 +66,7 @@ The loyalty program has improved over time, climbing in AOV through the years an
 </div>
 
 - Apple Products accounted for half of dollars refunded with the Macbook Air and Apple Airpods accounting for the majority of the refunds.
-- The Macbook Air Laptop and the Apple iPhone had the second and third highest refund rates respectively.
+- The Macbook Air Laptop and the Apple iPhone had the second and third highest overall refund rates respectively.
 
 *Available data only has refunds for purchases occuring up until July 2021 as no purchases made after that have refunds time-stamped befor the end of 2022. Refund losses account for 12% of sales up to July 2021.
 
