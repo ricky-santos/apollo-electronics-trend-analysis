@@ -2,26 +2,7 @@
 <div align="center">
   <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Apollo%20Logo.png?raw=true" alt="Apollo Logo" width="500">
 </div>
-Apollo Electronics is an e-commerce company founded in 2018 that sells consumer tech products online. They have gathered a wealth of data over the past few years and want to run an analysis of how their business has performed between 2019 and 2022. Apollo are interested in learning about general trends as well as what has impacted their sales across refunds, loyalty programs and apple products.
-
-## Stakeholder Ask
-"Hi data team - the leadership team is preparing for the company-wide town hall next month and would like to present a walkthrough of our order trends from 2019-2022. Can you help us answer the following:
-* What were the overall trends in sales during this time?
-* What were our monthly and yearly growth rates?
-* How is the new loyalty program performing? Should we keep using it?
-* What were our refund rates and average order value?
-
-I'll set a meeting next week to review your findings - looking forward to discussing.
-
-Thank you,
-
-Angie"
-
-**Stakeholder Follow-up** (After some claryfing questions)
-
-* Focus on sales, average order value (AOV), and order count for growth rates
-* For loyalty program performance, also look at average order value
-* For refunds and average order value, would like to focus on how these metrics compare across Apple products. Also include number of refunds as a metric.
+Apollo Electronics is an e-commerce company founded in 2018 that sells consumer tech products online. They have gathered a wealth of data over the past few years and want to run an analysis of how their business has performed between 2019 and 2022. Apollo are interested in learning about general trends as well as what has impacted their sales across refunds, products and regions. They also want to know if the Loyalty Program is worth continuing.
 
 ## High-Level Insights
 * After the startup period in 2019 sales began to steadily increase. However, 2020 saw a major boost in sales in March coinciding with the beginnig of the Covid-19 pandemic lockdowns.** Sales peaked in Q4 2020** at $3 million and have seen **overall declines in 2021 and 2022**.
@@ -39,7 +20,8 @@ Angie"
 </div>
 
 * 2020 saw the highest growth, with a 163% increase in sales, but sales have declined since with the largest drop of 46% in 2022.
-* The average order value (AOV) rose by 31% in 2020 but has since receded to pre-pandemic levels.
+* The average order value (AOV) rose by 31% in 2020—a year that was particularly higher than the rest. AOV has since receded to pre-pandemic levels.
+* Order numbers also folowed the same trend.
 
 ## Seasonal Trends
 <div align="center">
@@ -54,9 +36,10 @@ Angie"
   <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Product%20Sales.png?raw=true" alt="Product Sales" width="30%"> <img src="https://github.com/ricky-santos/apollo-electronics-trend-analysis/blob/main/Charts-Images/Product%20Orders.png?raw=true" alt="Product Orders" width="30%">
 </div>
 
-- The **Gaming Monitor, Apple Airpods, Macbook Air and Thinkpad Laptop** were the highest selling products earning **more than 95% of sales**.
+- The **Gaming Monitor, Apple Airpods, Macbook Air and Thinkpad Laptop** were the highest earning products earning **more than 95% of sales $**.
+- The Apple Airpods were the most popular product overall with almost 50,000 orders which is double the next most popular product. The Samsung Chargepack was another notably popular product, but its smaller pricepoint meant that it did not contribute as much in sales.
 - Comapred to the other Apple products, the iPhones lacked substantionally accounting for less than 1% of overall sales and orders.
-- Purchases across most products occred on the **website earning $27 Million** over the four years compared to just **$800,000 on mobile**.
+- Purchases across most products occured on the **website earning $27 Million** over the four years compared to just **$800,000 on mobile**.
 - The majority of orders attribute "direct" marketing as the main contributor to the sale which accounted for **$23 million**. "Email" was the second with over $3 million.
 - The Bose Soundsport Heaphones has contradicting performance to the above with all orders occuring on mobile and attributed to email marketing.
 
@@ -86,6 +69,9 @@ The loyalty program has improved over time, climbing in AOV through the years an
 - The Macbook Air Laptop and the Apple iPhone had the second and third highest refund rates respectively.
 
 *Available data only has refunds for purchases occuring up until July 2021 as no purchases made after that have refunds time-stamped befor the end of 2022. Refund losses account for 12% of sales up to July 2021.
+
+## Regional Analysis
+North America accounted for half of sales and orders with EMEA (29%), APAC (12%) and LATAM (7%) accounting for the rest. All regions followed the same general trend lines for sales and orders.
 
  ## Recommendations:
  The pandemic bump was drastic and Apollo was not able to sustain its growth, but a few opportuninties could help the company push for the future.
