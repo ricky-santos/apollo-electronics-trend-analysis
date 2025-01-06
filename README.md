@@ -5,7 +5,7 @@
 Apollo Electronics is an e-commerce company founded in 2018 that sells consumer tech products online. They have gathered a wealth of data over the past few years and want to run an analysis of how their business has performed between 2019 and 2022. Apollo are interested in learning about general trends as well as what has impacted their sales across refunds, products and regions. They also want to know if the Loyalty Program is worth continuing.
 
 ## High-Level Insights
-* After the startup period in 2019 sales began to steadily increase. However, 2020 saw a major boost in sales in March coinciding with the beginnig of the Covid-19 pandemic lockdowns.** Sales peaked in Q4 2020** at $3 million and have seen **overall declines in 2021 and 2022**.
+* After the startup period in 2019 sales began to steadily increase. However, 2020 saw a major boost in sales in March coinciding with the beginnig of the Covid-19 pandemic lockdowns.**Sales peaked in Q4 2020** at $3 million and have seen **overall declines in 2021 and 2022**.
 * Thinkpad & Macbook Air Laptops as well as the Apple Airpods Heaphones contributed the most to sales accounting for **95% of revenue**.
 * The refund window is exeedingly larger than normal with a refund window of **an average 738 days from shipping to refund** dates **subtracting 8% of sales revenue** over the 4 years so far.
 * The loyalty program has grown over the years to account for around 50% of all orders. **Loyalty Members also have higher AOVs** than Guest Checkout.
